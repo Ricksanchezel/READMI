@@ -11,7 +11,8 @@ Un pequeño proyecto en JavaScript para realizar un sorteo de "Amigo Secreto" de
 - Realizar el sorteo asegurando que nadie se asigne a sí mismo.
 - Mostrar los resultados en pantalla.
 
-## 📷 Captura de Pantalla
+## 📷 Captura de Pantalla![Captura de pantalla 2025-02-05 101619](https://github.com/user-attachments/assets/a535d1e6-d7f7-4ec1-9c8e-cbf58b0caf0f)
+
 
 ![Captura de Panta![Captura de pantalla 2025-02-05 095211](https://github.com/user-attachments/assets/ba32b08e-efb6-421e-a9a1-7b95e0f7a2f0)
 lla](assets/captura.png)
